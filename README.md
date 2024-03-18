@@ -8,7 +8,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeWbm&layout=compact&hide_border=true&title_color=70e000&text_color=EDEDED&bg_color=0d1117"/>
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,mysql,git,photoshop,illustrator"></img>
+  <img src="https://skillicons.dev/icons?i=html,css,java,mysql,js,git,photoshop,illustrator"></img>
 </div>
   <img align="right" alt="Gif" height="140" width="145" src="https://art.pixilart.com/3e3fc9c4c42536a.gif" >
 
