@@ -29,6 +29,5 @@
    <a href = "https://jorgewbm.github.io/Portifolio/" > <img src= "https://img.shields.io/badge/portifolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
 
-![snake gif](https://github.com/JorgeWbm/JorgeWbm/blob/output/github-contribution-grid-snake.svg)
 
 
