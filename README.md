@@ -31,5 +31,4 @@
 
 ![snake gif](https://github.com/JorgeWbm/JorgeWbm/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github.com/github-readme-stats-vercel.app/api/pin?username=JorgeWbm&repo=JorgeWbm&theme=react)](https://github.com/JorgeWbm/JorgeWbm)
 
