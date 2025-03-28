@@ -15,7 +15,7 @@
 <hr>
  
  #### Hello World!!
-> Eu sou o Jorge, tenho 21 anos e atualmente curso Análise e Desenvolvimento de Sistemas, na Unifametro. Tenho como objetivo me profissionalizar na área de desenvolvimento Front-End.
+> Eu sou o Jorge, tenho 22 anos e atualmente curso Análise e Desenvolvimento de Sistemas, na Unifametro. Tenho como objetivo me profissionalizar na área de desenvolvimento Front-End.
 
  🌱 Atualmente estou estudando Java, Html & Css e Design.
  
